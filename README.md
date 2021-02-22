@@ -13,7 +13,7 @@ I'm a developer who loves learning programming tricks everyday. :smile:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
-- 🌱 Next.js, Vue.js, Nest.js
+- 🌱 Next.js, Vue.js, NestJS
 
 [![Sortweste's GitHub stats](https://github-readme-stats.vercel.app/api?username=sortweste)](https://github.com/anuraghazra/github-readme-stats)
 
