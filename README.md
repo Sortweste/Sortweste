@@ -1,19 +1,8 @@
-### Hi folks 👋
-
 I'm a developer who loves learning programming tricks everyday. :smile: 
 
-### Languages
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,tailwind,react,nextjs,mongodb,git,docker)](https://skills.thijs.gg)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=FFF)
-
-### Technologies
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-
-- 🌱 Next.js, Vue.js, NestJS
+- 🌱NestJS
 
 [![Sortweste's GitHub stats](https://github-readme-stats.vercel.app/api?username=sortweste)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sortweste&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
